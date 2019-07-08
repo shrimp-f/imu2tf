@@ -1,8 +1,8 @@
 # imu2tf
 broadcast TF by subscribing sensor_msgs::Imu
 
-#Licence
-[MIT]
+## Licence
+MIT
 
-#Author
+## Author
 [shrimp-f](https://twitter.com/shrmpf)
